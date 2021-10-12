@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 *.1
 *.2
 *.3
 *.new
 _trash
 encryption-config.xml
+=======
+target
+>>>>>>> 1bdb8c1 (fix repos)
