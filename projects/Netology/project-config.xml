@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="49b8db75-8f67-4769-8600-c67c1f72bdbc" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2025.3/project-config.xsd">
+  <name>netology</name>
+  <project-extensions>
+    <extension id="PROJECT_EXT_3" type="OAuthProvider">
+      <parameters>
+        <param name="clientId" value="Ov23liSz9ZpPyzeXh540" />
+        <param name="defaultTokenScope" value="public_repo,repo,repo:status,write:repo_hook" />
+        <param name="displayName" value="GitHub.com (1)" />
+        <param name="gitHubUrl" value="https://github.com/" />
+        <param name="providerType" value="GitHub" />
+        <param name="secure:clientSecret" value="zxx22ae814245086139802b18304e5a1978280f636db88329a5e85709bbccb2320475e6edcddc689c4d775d03cbe80d301b" />
+      </parameters>
+    </extension>
+  </project-extensions>
+</project>
+

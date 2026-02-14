@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="ad1b51ba-1d4d-46fc-bf40-e5ea5dd20906" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2025.3/project-config.xsd">
+  <name>netology</name>
+  <description />
+  <settings>
+    <build-extensions>
+      <extension id="perfmon" type="perfmon" />
+    </build-extensions>
+  </settings>
+</build-type>
+
