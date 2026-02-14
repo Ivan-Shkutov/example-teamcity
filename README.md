@@ -55,6 +55,9 @@
 
   15. Запустил сборку master. Сборка прошла успешно. jar артефакты появились в TeamCity. Артефакт также автоматически загружается в Nexus через mvn deploy.
 
+  16. СхемаЖ
+
+      ![18](https://github.com/Ivan-Shkutov/example-teamcity/blob/master/img/18.png)
 
 
 ![1](https://github.com/Ivan-Shkutov/example-teamcity/blob/master/img/1.png)
@@ -90,5 +93,6 @@
 ![16](https://github.com/Ivan-Shkutov/example-teamcity/blob/master/img/16.png)
 
 ![17](https://github.com/Ivan-Shkutov/example-teamcity/blob/master/img/17.png)
+
 
 
